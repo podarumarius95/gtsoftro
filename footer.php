@@ -67,10 +67,21 @@
 						<ul class="list-large list-icons">
 							<address>
   <i class="fa fa-map-marker"></i>
-  <strong>Address:</strong> 66 Tomis Street
+  <strong>Romania Office:</strong> 66 Tomis Street
   <br>Brasov, BV 500334, Romania</address>
-							<li><i class="fa fa-phone"></i><strong>Phone:</strong> (123) 456-7890 </li>
-							<li><i class="fa fa-envelope"></i><strong>Email:</strong> <a href="mailto:first.last@example.com">office@gtsoft.ro</a>
+							<li><i class="fa fa-envelope"></i><strong>Email:</strong> <a href="mailto:office@gtsoft.ro">office.ro@gtsoft.ro</a>
+							<li><i class="fa fa-phone"></i><strong>Phone:</strong> +40 752 76 90 21 </li>
+							</li>
+
+						</ul>
+						
+												<ul class="list-large list-icons">
+							<address>
+  <i class="fa fa-map-marker"></i>
+  <strong>United Kingdom Office:</strong> 48 Tennyson Rd
+  <br>Southampton, United Kingdom</address>
+							<li><i class="fa fa-phone"></i><strong>Phone:</strong> +44 7761 644 921 </li>
+							<li><i class="fa fa-envelope"></i><strong>Email:</strong> <a href="mailto:office@gtsoft.ro">office.uk@gtsoft.ro</a>
 							</li>
 
 						</ul>
@@ -89,7 +100,7 @@
 	<div class="copyright-content">
 		<div class="container">
 			<div class="row">
-				<div class="copyright-text text-center"> &copy; 2016 POLO - Best HTML5 Template Ever. All Rights Reserved. <a href="http://www.inspiro-media.com" target="_blank">INSPIRO</a>
+				<div class="copyright-text text-center"> &copy; 2018 POLO - GTSOFT TECHNOLOGIES SRL. ALL RIGHTS RESERVED.
 				</div>
 			</div>
 		</div>

@@ -58,38 +58,83 @@
 
 	        <!-- INSPIRO SLIDER -->
         <section class="no-padding">
-            <!-- Google map sensor -->
-            <script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
-            <div class="map" data-map-address="Melburne, Australia" data-map-zoom="10" data-map-icon="images/markers/marker1.png" data-map-type="ROADMAP"></div>
+	        <!-- INSPIRO SLIDER -->
+        <div id="slider" class="inspiro-slider" data-height-xs="360">
+            <!-- Slide 1 -->
+            <div class="slide" style="background-image:url('images/contact/brasov.jpg');">
+                <div class="container">
+                    <div class="slide-captions text-center text-light">
+                        <!-- Captions -->
+                        <h2 style="   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;">Our Romania Office is located in the heart of Transylvania - the beautiful city of Brasov!</h2>
+                        <a href="#contactus" class="scroll-to button btn btn-purple"><span class="btn-label"><i class="fa fa-check"></i></span>CONTACT US NOW</a>
+                        <!-- End: Captions -->
+                    </div>
+                </div>
+            </div>
+            <!-- END: Slide 1 -->
+            <!-- Slide 2 -->
+            <div class="slide" style="background-image:url('images/contact/south.jpg');">
+                <div class="container">
+                    <div class="slide-captions text-center text-light">
+                        <!-- Captions -->
+                        <h2 style="   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;">Our UK Office is located in the beautiful seaside city Southampton!</h2>
+                        <a href="#contactus" class="scroll-to button btn btn-purple"><span class="btn-label"><i class="fa fa-check"></i></span>CONTACT US NOW</a>
+                        <!-- End: Captions -->
+                    </div>
+                </div>
+            </div>
+            <!-- END: Slide 2 -->
+        </div>
+        <!-- END: INSPIRO SLIDER -->
         </section>
         <!-- END: PAGE TITLE -->
 
         <!-- CONTENT -->
-        <section>
+        <section id="contactus">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
                         <h3 class="text-uppercase">Get In Touch</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse condimentum porttitor cursus. Duis nec nulla turpis. Nulla lacinia laoreet odio, non lacinia nisl malesuada vel. Aenean malesuada fermentum bibendum.</p>
+                        <p>We'd love to hear from you!</p>
 
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volutpat quis. Suspendisse consectetur fringilla luctus. Fusce id mi diam, non ornare orci. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor.</p>
+                        <p>Send us an email or pick up the phone. Either way, we'd love to hear from you. Nothing gets us fired up more than discussing our client's goals and dreams.</p>
 
 
                         <div class="row m-t-40">
                             <div class="col-md-6">
+													        <div class="featured-box">
+          <div class="effect social-links"> <img class="img-responsive img-thumbnail" src="images/maps/tomis.png" alt="image" />
+            <div class="image-box-content">
+              <p> <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2789.194335348531!2d25.62452131563313!3d45.64691897910347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b35c647f4d69eb%3A0x536f6ccfda914504!2sStrada+Tomis+66%2C+Bra%C8%99ov!5e0!3m2!1sro!2sro!4v1528985498879" class="popup-gmaps" data-lightbox-type="iframe"><i class="fa fa-map-marker"></i></a> </p>
+            </div>
+          </div>
+          <div class="image-box-description">
+          </div>
+        </div>
                                 <address>
-			  <strong>Polo, Inc.</strong><br>
-			  795 Folsom Ave, Suite 600<br>
-			  San Francisco, CA 94107<br>
-			  <abbr title="Phone">P:</abbr> (123) 456-7890
+			  <strong>GTSoft Technologies SRL</strong><br>
+			  Str. Neagoe Basarab nr. 37<br>
+			  Brasov, Romania<br>
+			  P:<a href="tel:+40752769021">+40 752 769 021</a>
 			</address>
                             </div>
                             <div class="col-md-6">
+													        <div class="featured-box">
+          <div class="effect social-links"> <img class="img-responsive img-thumbnail" src="images/maps/south.png" alt="image" />
+            <div class="image-box-content">
+              <p> <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10060.104358986304!2d-1.4015540315611315!3d50.92323437954342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487473fe7e260487%3A0x87c8d3e3111c0d1a!2s48+Tennyson+Rd%2C+Southampton+SO17+2GW%2C+Regatul+Unit!5e0!3m2!1sro!2sro!4v1528986017850" class="popup-gmaps" data-lightbox-type="iframe"><i class="fa fa-map-marker"></i></a> </p>
+            </div>
+          </div>
+          <div class="image-box-description">
+          </div>
+        </div>
                                 <address>
-			  <strong>Polo Office</strong><br>
-			  795 Folsom Ave, Suite 600<br>
-			  San Francisco, CA 94107<br>
-			  <abbr title="Phone">P:</abbr> (123) 456-7890
+			  <strong>GTSoft Technologies UK Office</strong><br>
+			  48 Tennyson Rd<br>
+			  Southampton, UK<br>
+			  P:<a href="tel:+447761644921">+44 7761 644 921</a>
 			</address>
                             </div>
                         </div>
@@ -166,6 +211,11 @@
                 </div>
             </div>
         </section>
+
+        <!-- END: PAGE TITLE -->
+		
+		
+
         <!-- END: Contact -->
 
         <!-- Footer -->

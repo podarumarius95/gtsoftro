@@ -52,7 +52,7 @@
 
     <!-- WRAPPER -->
     <div class="wrapper">
-	
+
 		<!-- HEADER -->
 <?php include 'header.php'; ?>
 
@@ -69,256 +69,77 @@
 </section>
 <!-- END: PAGE TITLE -->
 
-<section class="p-b-10">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-6">
-				<div class="heading heading text-left">
-					<h2>THE COMPANY</h2>
-					<span class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volutpat quis. Suspendisse consectetur fringilla luctus. Fusce id mi diam, non ornare orci. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor. </span>
-				</div>
-			</div>
-			<div class="col-md-6 m-t-60">
-				<div class="progress-bar-container title-up small extra-small color">
-					<div class="progress-bar" data-percent="100" data-delay="100" data-type="%">
-						<div class="progress-title">HTML5</div>
-					</div>
-				</div>
-
-				<div class="progress-bar-container title-up small extra-small color">
-					<div class="progress-bar" data-percent="94" data-delay="200" data-type="%">
-						<div class="progress-title">CSS3</div>
-					</div>
-				</div>
-
-				<div class="progress-bar-container title-up small extra-small color">
-					<div class="progress-bar" data-percent="78" data-delay="300" data-type="%">
-						<div class="progress-title">JQUERY</div>
-					</div>
-				</div>
-
-				<div class="progress-bar-container title-up small extra-small color">
-					<div class="progress-bar" data-percent="65" data-delay="400" data-type="%">
-						<div class="progress-title">MYSQL</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-<section class="background-grey">
-	<div class="container">
-		<div class="heading heading-center">
-			<h2>OUR TEAM</h2>
-			<span class="lead">Create amaLorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
-		</div>
-				<div class="row">
-			<div class="col-md-3">
-				<div class="image-box circle-image small">
-					<img class="" src="images/team/ciocanaru1.jpg" alt="">
-				</div>
-				<div class="image-box-description text-center">
-					<h4>Andrei Ciocanaru</h4>
-					<p class="subtitle">Software Developer</p>
-					<hr class="line">
-					<div>Iubeste munca si distractia fiind un mare impatimit al muzicii metal</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="image-box circle-image small">
-					<img alt="" src="images/team/andu1.jpg">
-				</div>
-				<div class="image-box-description text-center">
-					<h4>Alexandru Cancescu</h4>
-					<p class="subtitle">Software Engineer</p>
-					<hr class="line">
-					<div>Pasionat de orice tine de IT, fan Linux si Guns n Roses</div>
-
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="image-box circle-image small">
-					<img src="images/team/pufi1.jpg" alt="">
-				</div>
-				<div class="image-box-description text-center ">
-					<h4>Dorian Surariu</h4>
-					<p class="subtitle">Software Developer</p>
-					<hr class="line">
-					<div>Dorian lucreaza cu dragoste non-stop. Ma rog, aproape non-stop, atunci cand nu se da cu motorul</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="image-box circle-image small">
-					<img src="images/team/mada1.jpg" alt="">
-				</div>
-				<div class="image-box-description text-center">
-					<h4>Madalina Iordache</h4>
-					<p class="subtitle">Marketing Manager</p>
-					<hr class="line">
-					<div>Femeia care a facut posibil ca tu sa ajungi pe acest site</div>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-3">
-				<div class="image-box circle-image small">
-					<img class="" src="images/team/dani1.jpg" alt="">
-				</div>
-				<div class="image-box-description text-center">
-					<h4>Daniel Podaru</h4>
-					<p class="subtitle">Software Tester</p>
-					<hr class="line">
-					<div>Daniel este cel care ne trage de urechi atunci cand softul nu functioneaza corect</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="image-box circle-image small">
-					<img alt="" src="images/team/vlad1.jpg">
-				</div>
-				<div class="image-box-description text-center">
-					<h4>Vlad Ciotlausi</h4>
-					<p class="subtitle">Software Dev Manager</p>
-					<hr class="line">
-					<div>Un iubitor al chitarii electronice, Vlad este pasionat de tot ce inseamna inteligenta artificiala</div>
-
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="image-box circle-image small">
-					<img src="images/team/hrib1.jpg" alt="">
-				</div>
-				<div class="image-box-description text-center ">
-					<h4>Catalin Vartea</h4>
-					<p class="subtitle">Sales Manager</p>
-					<hr class="line">
-					<div>La fel ca si Vlad, Catalin iubeste chitara, drumetiile montane siii.. VANZARILE</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="image-box circle-image small">
-					<img src="images/team/marius1.jpg" alt="">
-				</div>
-				<div class="image-box-description text-center">
-					<h4>Marius Podaru</h4>
-					<p class="subtitle">CEO and President</p>
-					<hr class="line">
-					<div>Omul care i-a adus la un loc pe toti cei ceilalti, are grija ca toate lucrurile sa mearga exact cum trebuie</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
+<!-- SERVICES -->
 <section>
-	<div class="container">
-		<div class="heading heading-center">
-			<h2>WHAT WE DO</h2>
-			<span class="lead">Create amaLorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
-		</div>
-		<div class="row">
-			<div class="col-md-4">
-				<div class="text-box">
-					<h4>Web Development</h4>
-					<p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor cursumus.</p>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="text-box">
-					<h4>Social Marketing</h4>
-					<p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor cursumus.</p>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="text-box">
-					<h4>Graphic Design</h4>
-					<p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor cursumus.</p>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="text-box">
-					<h4>Web Design</h4>
-					<p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor cursumus.</p>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="text-box">
-					<h4>App Development</h4>
-					<p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor cursumus.</p>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="text-box">
-					<h4>Hosting services</h4>
-					<p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor cursumus.</p>
-				</div>
-			</div>
+    <div class="container">
+        <div class="col-md-12 col-sm-12 m-b-40 text-center">
+            <h2 class="m-b-20">Services</h2>
+            <p class="lead">Our work is contemporary, flawlessly executed, built on strong coding foundations and design processes. We have an analytical approach that means the projects success is measurable adding value to you and your customers.</p>
+        </div>
+        <div class="row">
+            <div class="col-md-4" data-animation="fadeInUp" data-animation-delay="0">
+                <div class="icon-box effect medium border small">
+                    <div class="icon">
+                        <a href="#"><i class="fa fa-plug"></i></a>
+                    </div>
+                    <h3>Website design</h3>
+                    <p>Bringing your ideas to live, website designs is our forte. We carve perfect designs to build creative websites that engage users on both desktop & mobile devices with its ultra modern.</p>
+                </div>
+            </div>
+            <div class="col-md-4" data-animation="fadeInUp" data-animation-delay="200">
+                <div class="icon-box effect medium border small">
+                    <div class="icon">
+                        <a href="#"><i class="fa fa-desktop"></i></a>
+                    </div>
+                    <h3>Ecommerce Solutions </h3>
+                    <p>Our ecommerce solutions are the most effective online selling tools due to intuitively designed UI, fast loading speed & one step checkout that gives an exclusive shopping experience.</p>
+                </div>
+            </div>
+            <div class="col-md-4" data-animation="fadeInUp" data-animation-delay="400">
+                <div class="icon-box effect medium border small">
+                    <div class="icon">
+                        <a href="#"><i class="fa fa-cloud"></i></a>
+                    </div>
+                    <h3>Mobile Applications </h3>
+                    <p>We build interactive mobile apps to extend your reach to potential customers & maximize conversions. Our platform apps are designed for iPhone, Android and Windows Phone.</p>
+                </div>
+            </div>
 
-		</div>
-	</div>
+            <div class="col-md-4" data-animation="fadeInUp" data-animation-delay="600">
+                <div class="icon-box effect medium border small">
+                    <div class="icon">
+                        <a href="#"><i class="fa fa-lightbulb-o"></i></a>
+                    </div>
+                    <h3>Web Development </h3>
+                    <p>Our team of experts build intelligent websites that actually perform & exceed your expectations. We offer completely customized interactive web solutions to turn your online presence into a profitable entity.</p>
+                </div>
+            </div>
+            <div class="col-md-4" data-animation="fadeInUp" data-animation-delay="800">
+                <div class="icon-box effect medium border small">
+                    <div class="icon">
+                        <a href="#"><i class="fa fa-trophy"></i></a>
+                    </div>
+                    <h3>Software Development </h3>
+                    <p>GTSoft has evolved as a true professional software company after successfully completing numerous client projects. We develop solutions that best meet business objectives.</p>
+                </div>
+            </div>
+            <div class="col-md-4" data-animation="fadeInUp" data-animation-delay="1000">
+                <div class="icon-box effect medium border small">
+                    <div class="icon">
+                        <a href="#"><i class="fa fa-thumbs-o-up"></i></a>
+                    </div>
+                    <h3>Digital Marketing </h3>
+                    <p>Our dynamic digital experts execute effective internet marketing solutions based on your business targets. With 100% customized tactics & focused website promotion strategy, we maximize user engagement.</p>
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+
 </section>
-
-
-<div class="seperator"><i class="fa fa-chevron-down"></i>
-</div>
-
-<section>
-
-	<div class="container">
-
-
-		<div class="row">
-			<div class="col-sm-12 text-center">
-				<p class="lead">Our awesome clients we've had the pleasure to work with!</p>
-			</div>
-		</div>
-
-
-		<ul class="grid grid-5-columns">
-			<li>
-				<a href="#"><img src="images/clients/1.png" alt="">
-				</a>
-			</li>
-			<li>
-				<a href="#"><img src="images/clients/2.png" alt="">
-				</a>
-			</li>
-			<li>
-				<a href="#"><img src="images/clients/3.png" alt="">
-				</a>
-			</li>
-			<li>
-				<a href="#"><img src="images/clients/4.png" alt="">
-				</a>
-			</li>
-			<li>
-				<a href="#"><img src="images/clients/5.png" alt="">
-				</a>
-			</li>
-			<li>
-				<a href="#"><img src="images/clients/6.png" alt="">
-				</a>
-			</li>
-			<li>
-				<a href="#"><img src="images/clients/7.png" alt="">
-				</a>
-			</li>
-			<li>
-				<a href="#"><img src="images/clients/8.png" alt="">
-				</a>
-			</li>
-			<li>
-				<a href="#"><img src="images/clients/9.png" alt="">
-				</a>
-			</li>
-			<li>
-				<a href="#"><img src="images/clients/10.png" alt="">
-				</a>
-			</li>
-		</ul>
-
-	</div>
-</section>
+<!-- END: SERVICES -->
 
         <!-- Footer -->
 <?php include 'footer.php'; ?>

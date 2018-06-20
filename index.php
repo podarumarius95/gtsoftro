@@ -52,7 +52,8 @@
 
     <!-- WRAPPER -->
     <div class="wrapper">
-	
+
+
 		<!-- HEADER -->
 <?php require_once 'header.php'; ?>
 
@@ -92,7 +93,7 @@
                     <div class="col-md-5 col-sm-12">
                         <h4>About us</h4>
                         <h2 class="m-b-20">INNOVATE with <b>CONFIDENCE</b></h2>
-                        <p class="lead">Making it easier to build, secure, and extend your enterprise applications. Go from concept to production in less time with middleware and tools that support PHP, UI, and web services development and testing.</p>
+                        <p class="lead">Making easier to advertise, open new possibilites and extend your enterprise. Go from concept to product in less time with our web and app services. Together we can grow!</p>
                         <a href="#services" class="btn btn-dark btn-outline btn-rounded">Our Services</a>
                     </div>
 
@@ -145,7 +146,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="text-center">
-                            <div class="counter text-large"> <span data-speed="1000" data-refresh-interval="12" data-to="18" data-from="5" data-seperator="true"></span> </div>
+                            <div class="counter text-large"> <span data-speed="1000" data-refresh-interval="12" data-to="3" data-from="0" data-seperator="true"></span> </div>
                             <div class="seperator seperator-small"></div>
                             <p>FINISHED PROJECTS</p>
                         </div>
@@ -161,81 +162,13 @@
         <!-- END: Our numbers -->
 
 
+
         <!-- REVIEWS -->
-        <section class="background-grey">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-5 col-sm-12">
-                        <h2 class="m-b-20">What people say about us</h2>
-                        <p class="lead">The best way to find out if you can trust somebody is to ask his partners.</p>
-                    </div>
 
-                    <div class="col-md-6 col-md-offset-1">
-                        <div class="carousel" data-carousel-col="1" data-carousel-dots="true" data-isotope-item="testimonial">
-                            <div class="testimonial">
-                                <div class="testimonial-description">
-                                    <p>The world is a dangerous place to live; not because of the people who are evil, but because of the people who don't do anything about it.</p>
-                                </div>
-                                <div class="testimonial-image">
-                                    <img class="round" src="images/team/1.jpg" alt="image">
-                                    <h4>Juna Doe</h4>
-                                    <p class="subtitle">Software Developer</p>
-                                </div>
-                            </div>
-                            <div class="testimonial">
-                                <div class="testimonial-description">
-                                    <p>Art is the only serious thing in the world. And the artist is the only person who is never serious.</p>
-                                </div>
-
-                                <div class="testimonial-image">
-                                    <img class="round" src="images/team/2.jpg" alt="image">
-                                    <h4>Resa Smith</h4>
-                                    <p class="subtitle">Software Developer</p>
-                                </div>
-                            </div>
-                            <div class="testimonial">
-                                <div class="testimonial-description">
-
-                                    <p>The world is a dangerous place to live; not because of the people who are evil, but because of the people who don't do anything about it.</p>
-                                </div>
-                                <div class="testimonial-image">
-                                    <img class="round" src="images/team/3.jpg" alt="image">
-                                    <h4>Ariol Perry</h4>
-                                    <p class="subtitle">Software Developer</p>
-                                </div>
-                            </div>
-                            <div class="testimonial">
-                                <div class="testimonial-description">
-
-                                    <p>The world is a dangerous place to live; not because of the people who are evil, but because of the people who don't do anything about it.</p>
-                                </div>
-                                <div class="testimonial-image">
-                                    <img class="round" src="images/team/4.jpg" alt="image">
-                                    <h4>Juna Doe</h4>
-                                    <p class="subtitle">Software Developer</p>
-                                </div>
-                            </div>
-                            <div class="testimonial">
-                                <div class="testimonial-description">
-                                    <p>Art is the only serious thing in the world. And the artist is the only person who is never serious.</p>
-                                </div>
-
-                                <div class="testimonial-image">
-                                    <img class="round" src="images/team/5.jpg" alt="image">
-                                    <h4>Resa Smith</h4>
-                                    <p class="subtitle">Software Developer</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- end features box -->
-                </div>
-            </div>
-        </section>
         <!-- END: REVIEWS -->
 
         <!-- Client logo -->
-     <!--   <section class="background-grey text-center">
+        <!-- <section class="background-grey text-center">
             <div class="container">
     <div class="row clients-carousel carousel-description-clients carousel-description-style ">
       <div class="col-md-4">
@@ -260,7 +193,7 @@
     </div>
     <hr class="space">
             </div>
-        </section>
+        </section> -->
         <!-- END: Client logo -->
 
         <!-- SERVICES -->
@@ -343,17 +276,29 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <h2 class="m-b-10">Get in Touch with Us</h2>
-                                <p class="lead">Our Headquarters are in Brasov, Romania </p>
+                                <p class="lead">Our Headquarters are in Brasov, Romania and in Southampton, UK </p>
                             </div>
                             <div class="col-md-6 m-b-30">
                                 <address>
-								<strong>Headquarters:</strong><br>
-								66 Tomis Street<br>
-								Brasov, BV, Romania 500330<br>
-							</address>
+                  								<strong>Romanian Headquarters:</strong><br>
+                  								66 Tomis Street<br>
+                  								Brasov, Jud. Brasov, Romania<br>
+                                  500330 <br>
+                  							</address>
                                 <abbr><strong>Phone:</strong></abbr> +40 752 76 90 21
                                 <br>
-                                <abbr><strong>Email:</strong></abbr> contact@gtsoft.ro
+                                <abbr><strong>Email:</strong></abbr> office.ro@gtsoft.ro
+                            </div>
+                            <div class="col-md-6 m-b-30">
+                                <address>
+                  								<strong>UK Headquarters:</strong><br>
+                  								48 Tennyson Road<br>
+                  								Southampton, Hampshire, UK<br>
+                                  SO17 2GW<br>
+                  							</address>
+                                <abbr><strong>Phone:</strong></abbr> +44 7761 644 921
+                                <br>
+                                <abbr><strong>Email:</strong></abbr> office.uk@gtsoft.ro
                             </div>
                             <div class="col-md-12">
                                 <h4>We are social</h4>
